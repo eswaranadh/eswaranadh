@@ -3,7 +3,6 @@
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
-  - 🔭 I’m currently pursuing my IV B.Tech in Andhrapradesh, India
   - 💬 Ask me about web and mobile development
   - 😄 Pronouns: He / Him
   
